@@ -1,2 +1,2 @@
 # TEST-InstrumentationTest-TipUITests
-<img src="images/ss1.jpg">
+<img src="image.png">
